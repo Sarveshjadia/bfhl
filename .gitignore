@@ -1,0 +1,7 @@
+/target/
+/maven/
+.vscode/
+.gemini/
+*.log
+*.zip
+*.jar
